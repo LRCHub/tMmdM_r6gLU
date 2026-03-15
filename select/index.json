@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Волчий клык(ヴォールチィクリーク）",
+  "base_artist": "AK-12 (CV：和氣あず未)",
+  "createdAt": "2026-03-15T12:22:16.009689Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Волчий вой",
+      "artist": "Ulukmanapo",
+      "has_synced": false,
+      "path": "select/01_Волчий_вой_Ulukmanapo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Волчий князь",
+      "artist": "Сны Саламандры",
+      "has_synced": true,
+      "path": "select/02_Волчий_князь_Сны_Саламандры.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Волчий Rock-N-Roll",
+      "artist": "Alisa",
+      "has_synced": true,
+      "path": "select/03_Волчий_Rock-N-Roll_Alisa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Волчий Rock-N-Roll",
+      "artist": "Алиса",
+      "has_synced": true,
+      "path": "select/04_Волчий_Rock-N-Roll_Алиса.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Волчий пастырь",
+      "artist": "Butterfly Temple",
+      "has_synced": false,
+      "path": "select/05_Волчий_пастырь_Butterfly_Temple.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Волчий клык",
+      "artist": "AK-12(和氣あず未)",
+      "has_synced": false,
+      "path": "select/pl_01_Волчий_клык_AK-12(和氣あず未).txt"
+    }
+  ]
+}
